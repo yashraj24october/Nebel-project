@@ -9,6 +9,16 @@ Username: u886847642.leanport
 Password: WwgSAt+?tL?Qx4a
 
 
+Site URL: https://nebel.bright-digital.de/
+Username: psimeons
+Password: hg&Tz432
+
+FTP information
+Host: 92.205.19.1
+Username: developer
+Password: CS@5cUtkra5&vlp8
+
+
 Authorized.net sandbox signup 
 ---------------------------------------------
 https://developer.authorize.net/hello_world/sandbox.html
